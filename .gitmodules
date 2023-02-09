@@ -1,7 +1,0 @@
-[submodule "first-principle-computer"]
-	path = first-principle-computer
-	url = https://github.com/shawnteh1711/first-principle-computer.git
-[submodule "1st_pri"]
-	path = 1st_pri
-	url = file:
-	branch = back-up
