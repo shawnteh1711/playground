@@ -1,0 +1,3 @@
+[submodule "1st"]
+	path = 1st
+	url = https://github.com/shawnteh1711/first-principle-computer.git
