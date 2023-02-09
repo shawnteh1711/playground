@@ -7,3 +7,6 @@
 [submodule "simple_makefile"]
 	path = simple_makefile
 	url = https://github.com/shawnteh1711/simple-Makefile.git
+[submodule "exam_rank1"]
+	path = exam_rank1
+	url = https://github.com/shawnteh1711/cadet42-exam.git
